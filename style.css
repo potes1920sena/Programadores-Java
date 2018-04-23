@@ -1,0 +1,82 @@
+@font-face{
+	font-family: dohyean;
+	src: url('../BungeeShade-Regular.ttf');
+
+}
+
+.letraSena{
+	font-family: dohyean;
+}
+.imagenfija{
+
+}
+
+h1{
+	text-align: center;
+	color: #000;
+	font-size: 46px;
+	text-transform: uppercase;
+}
+.imagen{
+	width: 180px;
+	height: 180px;
+	float: left;
+}
+.texto{
+	color: #000;
+	text-align: justify;
+	font-size: 18px;
+	margin: 20px;
+
+}
+.capaIzp{
+	width: 200px;
+	position:relative;
+	margin-left: 40px;
+	border-radius: 20px;
+	background-color: #33ffdd;
+}
+.capaIzp:hover{
+	background-color:#F87543;
+
+}
+div#pantalla{
+	margin: auto;
+	border-radius: 20px;
+	margin-left: 20px;
+	width: 1100px;
+	height: 600px;
+	background-color: #F87543;
+}
+div#copia{
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	float: right;
+	width: 340px;
+	height: 550px;
+	background-color: #33ffdd;
+
+}
+div#uno{
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	float: left;
+	width: 340px;
+	height: 550px;
+	background-color: ;
+}
+div#centro{
+	float: left;
+    margin: auto;
+    margin-top: 20px;
+	width: 340px;
+	height: 550px;
+	background-color: orange;
+
+}
