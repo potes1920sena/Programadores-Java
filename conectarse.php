@@ -2,7 +2,7 @@
 
 function conectate (&$conexion)
 {
-    $servidor = "localhost";
+    $servidor = "https://databases-auth.000webhost.com/index.php";
     $basededatos = "id3712707_plataformataxi";
     $usuario = "id3712707_administrador";
     $clave = "sena1318333";
