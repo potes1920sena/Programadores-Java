@@ -2,7 +2,7 @@
 
 function conectate (&$conexion)
 {
-    $servidor = "localhost";
+    $servidor = "ttps://phlotted-remainders.000webhostapp.com/registroc.php";
     $basededatos = "id3712707_plataformataxi";
     $usuario = "id3712707_administrador";
     $clave = "sena1318333";
