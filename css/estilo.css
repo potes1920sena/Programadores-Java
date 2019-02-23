@@ -172,8 +172,8 @@ ul#servicios li{
 footer{
 	padding: 20px;
 	margin-top: 20px;
-	color: #000;
-	background:url('../img/fondoi.png');
+	color: #fff;
+	background:url('../img/fondoinferior.png')no-repeat;
 	text-align: center; 
 }
 
