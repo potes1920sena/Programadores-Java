@@ -1,6 +1,6 @@
 <?php
 
-$conectar=@mysql_connect('localhost','root','');
+$conectar=@mysql_connect('mysqli.000webhost.com','DesarrolladoresJava','DesarrolladoresJava','1318333');
 
 if(!$conectar){
 	echo"No se pudo Conectar con el Servidor";
