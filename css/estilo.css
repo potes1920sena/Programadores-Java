@@ -32,14 +32,14 @@ ul{
 header{
 	background-color: #24282b;
 	background:url('../img/fondoprincipal.png') no-repeat;
-	color: #fff;
+	color: #663399;
 	padding-top: 30px;
 	min-height: 70px;
 	border-bottom: 5px solid #1293d4;
 }
 
 header a{
-	color: #fff;
+	color: #663399;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 16px;
@@ -83,7 +83,7 @@ header a:hover{
 	background-position: center;
 	background-attachment: all;
 	text-align: center;
-	color: #fff; 
+	color: #663399; 
 }
 
 #cabecera h1{
@@ -100,7 +100,7 @@ header a:hover{
 
 #boletin{
 	padding: 15px;
-	color: #fff;
+	color: #663399;
 	background: #24282b;
 }
 
@@ -172,8 +172,8 @@ ul#servicios li{
 footer{
 	padding: 20px;
 	margin-top: 20px;
-	color: #fff;
-	background:url('../img/fondoprincipal.png') no-repeat;
+	color: #663399;
+	background:url('../img/fondoi.png');
 	text-align: center; 
 }
 
