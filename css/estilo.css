@@ -24,7 +24,7 @@ ul{
 	border: 0;
 	padding-left: 20px;
 	padding-right: 20px;
-	color: #fff;
+	color: #000;
 }
 
 /* Encabezado*/
@@ -32,7 +32,7 @@ ul{
 header{
 	background-color: #24282b;
 	background:url('../img/fondoprincipal.png') no-repeat;
-	color: #663399;
+	color: #000;
 	padding-top: 30px;
 	min-height: 70px;
 	border-bottom: 5px solid #1293d4;
@@ -65,7 +65,7 @@ header nav{
 }
 
 header .resaltado, header .actual a{
-color: #1293d4;
+color: #000;
 font-weight: bold;
 
 }
@@ -83,7 +83,7 @@ header a:hover{
 	background-position: center;
 	background-attachment: all;
 	text-align: center;
-	color: #663399; 
+	color: #000; 
 }
 
 #cabecera h1{
@@ -172,7 +172,7 @@ ul#servicios li{
 footer{
 	padding: 20px;
 	margin-top: 20px;
-	color: #663399;
+	color: #000;
 	background:url('../img/fondoi.png');
 	text-align: center; 
 }
