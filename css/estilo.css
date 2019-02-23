@@ -173,7 +173,7 @@ footer{
 	padding: 20px;
 	margin-top: 20px;
 	color: #fff;
-	background:url('../img/fondoprincipal.png' no-repeat);
+	background:url('../img/fondoprincipal.png') no-repeat;
 	text-align: center; 
 }
 
