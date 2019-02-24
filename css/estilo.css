@@ -94,7 +94,7 @@ header a:hover{
 }
 
 #cabecera p{
-	font-size: 30px;
+	font-size: 20px;
 }
 
 /* Formulario boletin*/
@@ -155,9 +155,7 @@ aside#lateral{
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-.oscuro p{
-	width: 50%;	
-}
+
 
 /*Main-col */
 
