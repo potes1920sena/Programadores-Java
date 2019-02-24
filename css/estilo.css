@@ -82,7 +82,9 @@ header a:hover{
 	background-position: center;
 	background-attachment: all;
 	text-align: center;
-	color: #fff; 
+	color: #fff;
+	width:100%;
+	height:100%
 }
 
 #cabecera h1{
