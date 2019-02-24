@@ -31,7 +31,7 @@ ul{
 
 header{
 	background:url('../img/fondoprincipal.png') no-repeat;
-	color: #fff;
+	color: #663399;
 	padding-top: 30px;
 	min-height: 70px;
 	border-bottom: 5px solid #1293d4;
@@ -121,7 +121,8 @@ header a:hover{
 
 /*Cajas*/
 #cajas{
-	margin-top: 20px;
+	margin-top: 10px;
+	margin-right:20px;
 }
 #cajas .caja{
 	float: left;
