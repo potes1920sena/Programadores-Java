@@ -13,6 +13,7 @@ body{
 	overflow: auto; 
 }
 
+
 ul{
 	margin: 0;
 	padding: 0; 
@@ -56,6 +57,7 @@ header #marca{
 
 header #marca h1{
 	margin: 0; 
+	width 100%
 }
 
 header nav{
