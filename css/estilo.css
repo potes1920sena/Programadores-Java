@@ -134,6 +134,9 @@ header a:hover{
 	width: 90px;
 }
 
+#cajas .caja h1{
+	text-align: center;
+}
 /* Lateral*/
 
 aside#lateral{
