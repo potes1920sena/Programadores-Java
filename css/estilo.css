@@ -101,6 +101,7 @@ header a:hover{
 	padding: 15px;
 	color: #663399;
 	background: #24282b;
+	background:url('../img/fondoprincipal.png') no-repeat;
 }
 
 #boletin h1{
