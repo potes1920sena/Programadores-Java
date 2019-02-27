@@ -31,7 +31,8 @@ ul{
 /* Encabezado*/
 
 header{
-	background:url('../img/fondoprincipal.png') no-repeat;
+	background:url('../img/fondoprincipal.png');
+	font-size:14px;
 	color: #663399;
 	padding-top: 30px;
 	min-height: 70px;
@@ -105,7 +106,7 @@ header a:hover{
 	padding: 15px;
 	color: #663399;
 	background: #24282b;
-	background:url('../img/fondoprincipal.png') no-repeat;
+	background:url('../img/fondoprincipal.png');
 }
 
 #boletin h1{
@@ -182,7 +183,7 @@ footer{
 	padding: 20px;
 	margin-top: 20px;
 	color: #fff;
-	background:url('../img/fondoprincipal.png')no-repeat;
+	background:url('../img/fondoprincipal.png');
 	text-align: center; 
 }
 
