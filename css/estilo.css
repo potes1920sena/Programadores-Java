@@ -31,7 +31,7 @@ ul{
 /* Encabezado*/
 
 header{
-	background:url('../img/fondoprincipal.png');
+	background-color:#fff;
 	font-size:14px;
 	color: #663399;
 	padding-top: 30px;
