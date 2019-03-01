@@ -31,7 +31,6 @@ ul{
 /* Encabezado*/
 
 header{
-	background-color:#f4f4f4;
 	font-size:14px;
 	color: #663399;
 	padding-top: 30px;
@@ -92,7 +91,7 @@ header a:hover{
 
 #cabecera h1{
 	margin-top: 100px;
-	font-size: 50px;
+	font-size: 30px;
 	margin-bottom: 10px;
 }
 
@@ -181,6 +180,7 @@ ul#servicios li{
 /* Footer o pie de pagina*/
 
 footer{
+	background: #24282b;
 	padding: 20px;
 	margin-top: 20px;
 	color: #fff;
