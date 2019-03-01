@@ -25,13 +25,13 @@ ul{
 	border: 0;
 	padding-left: 20px;
 	padding-right: 20px;
-	color: #fff;
+	color: #f4f4f4;
 }
 
 /* Encabezado*/
 
 header{
-	background-color:#fff;
+	background-color:#f4f4f4;
 	font-size:14px;
 	color: #663399;
 	padding-top: 30px;
